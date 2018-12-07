@@ -15,7 +15,7 @@ The configurational architectural pattern can be broken down into four distinct 
 * Configuration Provider
 * Configuration Extensions
 
-Configuration Source
+#### Configuration Source
 Configuration Provider
 Configuration
 Configuration Extensions
