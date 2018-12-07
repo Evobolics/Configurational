@@ -19,3 +19,5 @@ The configurational architectural pattern can be broken down into four distinct 
 #### Configuration Provider
 #### Configuration
 #### Configuration Extensions
+
+### Hierarchial Datastore
