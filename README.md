@@ -7,3 +7,14 @@ This article discusses a new set of configuration libraries that improves upon t
 ## Introduction
 
 ## DotNet Core Configuration Overview
+First this article will discuss the architectural pattern presented by 
+### Architectural Pattern
+The configurational architectural pattern can be broken down into four distinct areas.
+* Configuration
+* Configuration Source
+* Configuration Provider
+* Configuration Extensions
+Configuration Source
+Configuration Provider
+Configuration
+Configuration Extensions
